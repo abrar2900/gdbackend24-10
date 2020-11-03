@@ -11,10 +11,3 @@ If you apply a Creative Commons license and a user violates the license conditio
 # gindex-backend
 Backend for gindex for Maintaining User Database
 
-**Support Group can be Found Here - [Here](https://t.me/joinchat/LVLR1U5Gs_9lmHGNGqpxIw)**<br>
-Any Issues / Help Regarding Setup, Contact Through the telegram Group
-
-##### without this the Main GIndex wont work, Both should run simultaneously.
-
-#### Deploy to Heroku Directly:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ftks18%2Fgindex-backend%2Ftree%2Fmaster)
